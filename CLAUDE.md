@@ -2,11 +2,23 @@
 
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
 
-## Project status
+## Project overview
 
-This repository is currently empty (no commits, source files, or configuration yet). There is no
-build, lint, or test tooling in place, and no architecture to document.
+This is a personal coursework workspace for ACA's "AI for PMs" course. The owner is a product
+manager, not a software engineer — favor plain-language explanations over engineering jargon, and
+don't assume familiarity with dev tooling (git, terminals, build systems) unless it's been
+established in the conversation.
 
-Update this file once the codebase exists: add the commands used to build, lint, and test the
-project, and describe the high-level architecture so future Claude Code sessions can be productive
-quickly.
+There is no build/lint/test tooling because this isn't a software project — it's a collection of
+course exercises, skills, and product artifacts.
+
+## Structure
+
+- `projects/` — hands-on exercises and build projects from course modules, one subfolder per
+  project.
+- `skills/` — reusable Claude skills built during the course.
+- `products/` — more polished, product-shaped outputs (prototypes, specs, demos).
+
+Each subfolder should have its own README describing what it is and its status. Update this file
+as the workspace grows — e.g. once real tooling (a specific framework, a build step) is
+introduced for a given project.
