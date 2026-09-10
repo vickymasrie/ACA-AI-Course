@@ -5,6 +5,7 @@ on:
     branches: [claude/armenian-preschool-website-4rtfn3]
     paths:
       - 'projects/liuli-preschool-website/**'
+      - '.github/workflows/deploy-liuli-preschool-pages.yml'
   workflow_dispatch:
 
 permissions:

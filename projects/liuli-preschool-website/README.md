@@ -1,5 +1,7 @@
 # Լի ու Լի Մանկապարտեզ — Website
 
+**Live site:** https://vickymasrie.github.io/ACA-AI-Course/
+
 A mobile-friendly, bilingual (Armenian/English) website for Li u Li Preschool
 (Yerevan, Ajapnyak & Davtashen branches). Built as plain HTML/CSS/JS — no
 build tools, no framework, no dependencies. Open any `.html` file directly in
