@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 440" role="img" aria-labelledby="liuliLogoTitle">
+  <title id="liuliLogoTitle">Լի ու Լի մանկապարտեզ</title>
+  <rect width="400" height="440" rx="28" fill="#4CAF50"/>
+
+  <!-- roof blocks -->
+  <rect x="150" y="60" width="50" height="140" fill="#EF83A0"/>
+  <rect x="200" y="60" width="50" height="140" fill="#E23A5A"/>
+  <polygon points="200,68 152,172 248,172" fill="#C42848"/>
+
+  <!-- block row -->
+  <rect x="95" y="200" width="65" height="140" fill="#FFDE3D"/>
+  <rect x="160" y="200" width="65" height="140" fill="#F7A927"/>
+  <rect x="225" y="200" width="65" height="140" fill="#A9D3EC"/>
+  <rect x="290" y="200" width="65" height="140" fill="#5B93C4"/>
+
+  <!-- sun -->
+  <circle cx="160" cy="270" r="42" fill="#FFE14D"/>
+  <circle cx="178" cy="270" r="38" fill="#F7A927" opacity="0.85"/>
+
+  <!-- window -->
+  <rect x="248" y="235" width="40" height="70" fill="#A9D3EC"/>
+  <rect x="288" y="235" width="40" height="70" fill="#2F6CA6"/>
+
+  <!-- wordmark -->
+  <text x="200" y="405" text-anchor="middle" font-family="'Noto Sans Armenian','Noto Sans',sans-serif" font-weight="700" font-size="58" fill="#FFFFFF">Լի ու Լի</text>
+</svg>
